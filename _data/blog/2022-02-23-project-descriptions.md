@@ -3,6 +3,7 @@ template: BlogPost
 path: /description-page
 date: 2022-02-23T16:10:17.379Z
 title: Project Descriptions
+thumbnail: /assets/stem_developer-1024x684.jpg
 ---
 During the semester we will design your first software (no coding!). Designing software is a group activity and I will create groups in the class. I will try to make them grouping you depending on your background. Indeed, since you will have to pick your own topic, if you have a similar background you can come out with an idea of a software that can help with the problem you have in your field.
 
