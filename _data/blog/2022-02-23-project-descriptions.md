@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /description-page
-date: 2022-02-23T16:10:17.379Z
+date: 2022-02-22T16:11:00.000Z
 title: Project Descriptions
 thumbnail: /assets/stem_developer-1024x684.jpg
 ---
